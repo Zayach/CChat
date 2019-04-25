@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1556204811 source:c:\users\zyoung00115\desktop\server.cpp
+	<windows.h>
+	<winsock2.h>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<iostream>
+
